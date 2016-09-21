@@ -15,5 +15,5 @@
 
 # Ignore Byebug command history file.
 .byebug_history
-/.idea/**
+.idea/**
 .idea/workspace.xml
