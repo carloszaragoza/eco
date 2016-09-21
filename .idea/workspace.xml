@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7317c854-65cf-41a0-9274-4d30bf5bef20" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="eco.iws" />
@@ -322,7 +321,7 @@
       <option name="presentableId" value="Default" />
       <updated>1474417545984</updated>
       <workItem from="1474417547296" duration="1622000" />
-      <workItem from="1474470264995" duration="93000" />
+      <workItem from="1474470264995" duration="109000" />
     </task>
     <task id="LOCAL-00001" summary="Commit para Github">
       <created>1474418085803</created>
@@ -331,11 +330,18 @@
       <option name="project" value="LOCAL" />
       <updated>1474418085803</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Quitando archivos de RubyMine">
+      <created>1474470520235</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1474470520235</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1715000" />
+    <option name="totallyTimeSpent" value="1731000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="773" extended-state="6" />
@@ -392,7 +398,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit para Github" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit para Github" />
+    <MESSAGE value="Quitando archivos de RubyMine" />
+    <option name="LAST_COMMIT_MESSAGE" value="Quitando archivos de RubyMine" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
